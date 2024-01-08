@@ -1,0 +1,12 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+  {
+    "name": "stdout"
+    "output_type": "stream",
+    "text": [
+     "2.5889212827988337\n"
